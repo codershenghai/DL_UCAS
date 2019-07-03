@@ -23,6 +23,8 @@ UCAS 2018-2019学年深度学习课程实验，包含部分课程实验内容的
 	└─province
 ```
 
+数据集下载：链接: https://pan.baidu.com/s/1AJA_lpZy1oDE8TSxz2SsDg 提取码: g44n
+
 ### [Experiment2 猫狗分类](https://github.com/shenghaishxt/DL_UCAS/tree/master/Experiment2)
 
 对已经在ImageNet数据集上训练好的模型进行微调，实现一个猫狗分类神经网络模型的训练、测试和导出。
@@ -38,6 +40,8 @@ UCAS 2018-2019学年深度学习课程实验，包含部分课程实验内容的
     └─dogs
 ```
 
+数据集下载：链接: https://pan.baidu.com/s/10fwEy19qjnR0_g_ndjdYaw 提取码: 3p7t
+
 ## 语音类
 
 ### [Experiment3 英文数字语音识别](https://github.com/shenghaishxt/DL_UCAS/tree/master/Experiment3)
@@ -52,6 +56,8 @@ UCAS 2018-2019学年深度学习课程实验，包含部分课程实验内容的
 └─test
 ```
 
+数据集下载：链接: https://pan.baidu.com/s/1Vv5wWZ9RIJ6QbxDOCVkGdQ 提取码: mccu
+
 ### [Experiment4 声纹识别](https://github.com/shenghaishxt/DL_UCAS/tree/master/Experiment4)
 
 搭建声纹识别模型并训练，实现对未知人的声音进行识别。
@@ -62,6 +68,8 @@ UCAS 2018-2019学年深度学习课程实验，包含部分课程实验内容的
 ├─test_tisv
 └─train_tisv
 ```
+
+数据集下载：链接: https://pan.baidu.com/s/1ld9fAN7Dy8one_aA6nwAiw 提取码: yt5p
 
 ## 自然语言处理类
 
@@ -77,4 +85,4 @@ UCAS 2018-2019学年深度学习课程实验，包含部分课程实验内容的
 ​    validation.txt
 ```
 
-数据集下载地址暂未更新，之后会放出。
+数据集下载：链接: https://pan.baidu.com/s/1o_t8FmN5VP59UeMCmO6d9A 提取码: vezm
